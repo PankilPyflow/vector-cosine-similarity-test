@@ -48,7 +48,5 @@ This analysis aims to illustrate how data cleaning can improve the relevance of 
 
 ## Contact
 
-For any questions or support, feel free to reach out to the project author.
+For any questions or comments, connect with me at linkedin.com/in/pankilshah9
 ```
-
-This `readme.txt` provides an overview of the project, instructions for setup, and running the script.
