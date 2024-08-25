@@ -1,5 +1,3 @@
-Here's a sample `readme.txt` file for your project:
-
 ```
 # Similarity Analysis with Clean and Noisy Data
 
