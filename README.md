@@ -1,4 +1,3 @@
-```
 # Similarity Analysis with Clean and Noisy Data
 
 This project demonstrates the effect of noisy data on vector search similarity scores using a pre-trained Sentence Transformer model. The goal is to showcase how data preprocessing (e.g., text cleaning) impacts the retrieval relevance of text samples against specific queries.
@@ -37,7 +36,7 @@ pip install pandas sentence-transformers
 To run the script and generate the CSV file with similarity scores, simply execute:
 
 ```bash
-python script.py
+text_cleaning.py
 ```
 
 The resulting `similarity_analysis_with_text.csv` file will be created in the current directory.
